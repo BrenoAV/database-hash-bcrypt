@@ -82,6 +82,6 @@ $ python scripts/login_database.py -u "breno" -p "pss@word"
 
 ---
 
-<div style="text-align: center;">
+<p align='center'>
 🛠️ Created by <strong>BrenoAV<strong> 🚀
-</div>
+</p>
